@@ -1,5 +1,5 @@
 Criar venv:
-\ncd /caminho/do/seu/projeto
-python -m venv venv
-venv\Scripts\activate
+1. cd /caminho/do/seu/projeto
+2. python -m venv venv
+3. venv\Scripts\activate
 pip install requirements.txt
